@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta",
+  "version": "0.2.1",
   "name": "Animastor Android",
   "minSdk": 24,
-  "releaseDate": "2026-08-21",
+  "releaseDate": "2026-10-29",
   "notes": "Experimental beta — AI provider and Private Worker settings are being brought to parity with the web application."
 }
