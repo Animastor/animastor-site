@@ -1,7 +1,7 @@
 {
-  "version": "0.2.2",
+  "version": "0.2.3",
   "name": "Animastor Android",
   "minSdk": 24,
-  "releaseDate": "2026-10-31",
-  "notes": "Experimental beta — generation runs only by explicit command; the generator shows stopped tasks (no worker / interrupted / cancelled) with Retry / Continue."
+  "releaseDate": "2026-11-01",
+  "notes": "Experimental beta — the worker installer is ONE command (curl -fsSL \"<url>\" | bash) with one-tap copy; the Worker Key is masked with Show/Hide; the install screen shows the worker type and its hub status. Requires backend with installer 0.2.4."
 }
