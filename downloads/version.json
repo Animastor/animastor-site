@@ -1,7 +1,8 @@
 {
-  "version": "0.2.3",
+  "version": "0.2.4",
+  "versionCode": 6,
   "name": "Animastor Android",
   "minSdk": 24,
-  "releaseDate": "2026-11-01",
-  "notes": "Experimental beta — the worker installer is ONE command (curl -fsSL \"<url>\" | bash) with one-tap copy; the Worker Key is masked with Show/Hide; the install screen shows the worker type and its hub status. Requires backend with installer 0.2.4."
+  "releaseDate": "2026-11-02",
+  "notes": "переключатели слоёв: одно сохранение на действие, кнопки заблокированы до подтверждения"
 }
