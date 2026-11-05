@@ -1,8 +1,8 @@
 {
-  "version": "0.2.5",
-  "versionCode": 7,
+  "version": "0.2.6",
+  "versionCode": 8,
   "name": "Animastor Android",
   "minSdk": 24,
-  "releaseDate": "2026-11-03",
-  "notes": "понятная причина ошибки генерации, отображение автоповтора"
+  "releaseDate": "2026-11-05",
+  "notes": "Генератор запускает перегенерацию только по явному нажатию"
 }
