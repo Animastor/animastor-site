@@ -1,8 +1,8 @@
 {
-  "version": "0.2.10",
-  "versionCode": 12,
+  "version": "0.3.0",
+  "versionCode": 13,
   "name": "Animastor Android",
   "minSdk": 24,
-  "releaseDate": "2026-11-13",
-  "notes": "Поведение персонажей: baseline и правила сцен в генерации; вход при импорте и скачивании"
+  "releaseDate": "2026-11-19",
+  "notes": "Карточка героя, облики, VBook 4"
 }
