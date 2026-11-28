@@ -1,8 +1,8 @@
 {
-  "version": "0.3.6",
-  "versionCode": 19,
+  "version": "0.3.7",
+  "versionCode": 20,
   "name": "Animastor Android",
   "minSdk": 24,
-  "releaseDate": "2026-11-27",
-  "notes": "Прогресс генерации и поток событий всегда свежие: запросы /book/:id/generate/* идут с Cache-Control: no-store"
+  "releaseDate": "2026-11-28",
+  "notes": "Клиент больше не обращается к устаревшим эндпоинтам генерации и импорта (v2 generate API)"
 }
